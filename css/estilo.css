@@ -27,14 +27,14 @@ style body img {
     float: left;
     width: 25%;
     /* width: 25%; aqui eu coloco o tamanho da margen largura */
-    height: 100%;
+    height: 120%;
     /* Aqui eu coloco a altura da minha margem  */
     position: fixed;
     background-color: ;
 }
 
 .inner {
-    padding: 30px;
+    padding: 20px;
     /* aqui eu coloco a altura do meus aside */
 }
 
